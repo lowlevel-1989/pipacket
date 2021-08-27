@@ -126,7 +126,7 @@ print()
 print("One's Complement")
 
 _checksum = ~_checksum & 0xffff
-print('logic not checksum:         0x{:04X}'.format(_checksum), end='\n\n')
+print('Logical NOT (~) checksum:   0x{:04X}'.format(_checksum), end='\n\n')
 
 # patch checksum
 print('Patch checksum')

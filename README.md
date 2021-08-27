@@ -1,0 +1,4 @@
+- https://man7.org/linux/man-pages/man2/socket.2.html
+- https://docs.python.org/3/library/socket.html
+- https://docs.python.org/3/library/struct.html
+- https://en.wikipedia.org/wiki/IPv4
